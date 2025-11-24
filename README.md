@@ -155,100 +155,79 @@ Fake Images (Diffusion): ~40,000
 
 ---
 
-# 🚀 **How to Run Locally**
+# 🚀 How to Run Locally
 
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/<your-username>/Deepfake-Image-Detection.git
 cd Deepfake-Image-Detection
-
-
-2️⃣ Install Dependencies
-
+```
+### 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed.
 pip install -r requirements.txt
 
-3️⃣ Run the Flask Web Application
+### 3️⃣ Run the Flask Web Application
 python flask_app/app.py
 
-4️⃣ Open the Application in Your Browser
-
-After running the Flask app, open:
+###4️⃣ Open browser
 http://127.0.0.1:5000
-You will now be able to upload an image and see the real-vs-fake prediction and model attribution.
 
 ---
 
----
+#🧪 Model Training (Google Colab)
 
-# 🧪 **Model Training (Google Colab)** 
-
-Runtime: GPU (Tesla T4 / V100)
-
-Loss: CrossEntropyLoss
-
-Optimizer: Adam
-
-Augmentations:
-
-Horizontal Flip
-
-Rotation
-
-Color Jitter
-
-Random Erase
+- Runtime: GPU (Tesla T4 / V100)
+- Loss: CrossEntropyLoss
+- Optimizer: Adam
+- Augmentations:
+      **Horizontal Flip**
+      **Rotation**
+      **Color Jitter**
+      **Random Erase**
 
 ---
-
-📊 Results
+#📊 Results
 
 | Model     | Accuracy |
 | --------- | -------- |
-| SimpleCNN | 99.2     |
-| ResNet18  | 80.12    |
-| ResNeXt50 | 83.72    |
+| SimpleCNN | 99.2%    |
+| ResNet18  | 80.12%   |
+| ResNeXt50 | 83.72%   |
 
 ---
----
-
-🖼️ Screenshots
+## 📸 Screenshots
 
 ### 📌 Screenshot 1 — Web App Interface  
-![Web App Interface](https://raw.githubusercontent.com/<username>/<repo>/main/screenshot1.png)
+![Web App](Web App Interface .jpg)
 
-### 📌 Screenshot 2 — Model Prediction  
-![Prediction](https://raw.githubusercontent.com/<username>/<repo>/main/screenshot2.png)
+### 📌 Screenshot 2 — StyleGAN Fake Image Prediction  
+![StyleGAN Prediction](StyleGAN prediction screenshot.jpg)
 
-### 📌 Screenshot 3 — Training Metrics  
-![Training Metrics](https://raw.githubusercontent.com/<username>/<repo>/main/screenshot3.png)
+### 📌 Screenshot 3 — MinDALL·E Fake Image Prediction  
+![MinDALLE Prediction](MinDALL·E prediction screenshot.jpg)
+
+### 📌 Screenshot 4 — OpenJourney Fake Image Prediction  
+![OpenJourney Prediction](OpenJourney prediction screenshot.jpg)
+
+### 📌 Screenshot 5 — Stable Diffusion Fake Image Prediction  
+![Stable Diffusion Prediction](Stable Diffusion prediction screenshot.jpg)
+
+
+#🌱 Future Enhancements
+
+- Video deepfake detection
+- API endpoint for enterprise integration
+- Mobile version (Flutter)
+- Lightweight model deployment
+- Real-time face manipulation detection
 
 ---
-
-🌱 Future Enhancements
-
-Video deepfake detection
-
-API endpoint for enterprise integration
-
-Mobile version (Flutter)
-
-Lightweight model deployment
-
-Real-time face manipulation detection
----
----
-
-👩‍💻 Developer
-
+# 👩‍💻 Developer
 Madhuja Deb Adhikari
 B.Tech — CSE (Cyber Security)
 Rashtriya Raksha University
 GitHub: https://github.com/devoloperMadhuja
----
----
 
-📜 License
-
+---
+# 📜 License
 This project is licensed under the MIT License.
-
