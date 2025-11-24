@@ -198,19 +198,19 @@ http://127.0.0.1:5000
 ## 📸 Screenshots
 
 ### 📌 Screenshot 1 — Web App Interface  
-![Web App](Web App Interface .jpg)
+![Web App](https://github.com/devoloperMadhuja/Deepfake-Image-Detection/blob/main/Web%20App%20Interface%20.jpg)
 
 ### 📌 Screenshot 2 — StyleGAN Fake Image Prediction  
-![StyleGAN Prediction](StyleGAN prediction screenshot.jpg)
+![StyleGAN Prediction](https://github.com/devoloperMadhuja/Deepfake-Image-Detection/blob/main/StyleGAN%20prediction%20screenshot.jpg)
 
 ### 📌 Screenshot 3 — MinDALL·E Fake Image Prediction  
-![MinDALLE Prediction](MinDALL·E prediction screenshot.jpg)
+![MinDALLE Prediction](https://github.com/devoloperMadhuja/Deepfake-Image-Detection/blob/main/MinDALL%C2%B7E%20prediction%20screenshot.jpg)
 
 ### 📌 Screenshot 4 — OpenJourney Fake Image Prediction  
-![OpenJourney Prediction](OpenJourney prediction screenshot.jpg)
+![OpenJourney Prediction](https://github.com/devoloperMadhuja/Deepfake-Image-Detection/blob/main/OpenJourney%20prediction%20screenshot.jpg)
 
 ### 📌 Screenshot 5 — Stable Diffusion Fake Image Prediction  
-![Stable Diffusion Prediction](Stable Diffusion prediction screenshot.jpg)
+![Stable Diffusion Prediction](https://github.com/devoloperMadhuja/Deepfake-Image-Detection/blob/main/Stable%20Diffusion%20prediction%20screenshot.jpg)
 
 ---
 
