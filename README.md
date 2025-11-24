@@ -137,17 +137,17 @@ Fake Images (Diffusion): ~40,000
               └──────────┬─────────┘
                          ▼
            ┌──────────────────────────┐
-           │    CNN Classification     │
-           │  (SimpleCNN / ResNet18)   │
+           │    CNN Classification    │
+           │       (SimpleCNN)        │
            └─────────────┬────────────┘
                          │
                          ▼
           ┌──────────────────────────┐
-          │  GAN/Diffusion Attribution│
+          │ GAN/Diffusion Attribution│
           └─────────────┬────────────┘
                          ▼
            ┌──────────────────────────┐
-           │  Flask Web Application    │
+           │  Flask Web Application   │
            └──────────────────────────┘
 
 
