@@ -162,14 +162,18 @@ cd Deepfake-Image-Detection
 ```
 ### 2️⃣ Install Dependencies
 Make sure you have Python 3.8+ installed.
+```bash
 pip install -r requirements.txt
-
+```
 ### 3️⃣ Run the Flask Web Application
+```bash
 python flask_app/app.py
+```
 
-###4️⃣ Open browser
+### 4️⃣ Open browser
+```bash
 http://127.0.0.1:5000
-
+```
 ---
 
 # 🧪 Model Training (Google Colab)
