@@ -182,10 +182,10 @@ http://127.0.0.1:5000
 - Loss: CrossEntropyLoss
 - Optimizer: Adam
 - Augmentations:
-      **Horizontal Flip**
-      **Rotation**
-      **Color Jitter**
-      **Random Erase**
+      - **Horizontal Flip**
+      - **Rotation**
+      - **Color Jitter**
+      - **Random Erase**
 
 ---
 # 📊 Results
