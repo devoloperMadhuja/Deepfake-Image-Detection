@@ -174,7 +174,7 @@ http://127.0.0.1:5000
 
 ---
 
-#🧪 Model Training (Google Colab)
+# 🧪 Model Training (Google Colab)
 
 - Runtime: GPU (Tesla T4 / V100)
 - Loss: CrossEntropyLoss
@@ -212,8 +212,9 @@ http://127.0.0.1:5000
 ### 📌 Screenshot 5 — Stable Diffusion Fake Image Prediction  
 ![Stable Diffusion Prediction](Stable Diffusion prediction screenshot.jpg)
 
+---
 
-#🌱 Future Enhancements
+# 🌱 Future Enhancements
 
 - Video deepfake detection
 - API endpoint for enterprise integration
@@ -223,10 +224,10 @@ http://127.0.0.1:5000
 
 ---
 # 👩‍💻 Developer
-Madhuja Deb Adhikari
-B.Tech — CSE (Cyber Security)
-Rashtriya Raksha University
-GitHub: https://github.com/devoloperMadhuja
+- Madhuja Deb Adhikari
+- B.Tech — CSE (Cyber Security)
+- Rashtriya Raksha University
+- GitHub: https://github.com/devoloperMadhuja
 
 ---
 # 📜 License
