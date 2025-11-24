@@ -105,8 +105,6 @@ Both datasets combined give:
 
 ---
 
----
-
 # 🗂️ **Dataset Details**
 
 The dataset consists of:
@@ -179,7 +177,11 @@ After running the Flask app, open:
 http://127.0.0.1:5000
 You will now be able to upload an image and see the real-vs-fake prediction and model attribution.
 
-🧪 Model Training (Google Colab)
+---
+
+---
+
+# 🧪 **Model Training (Google Colab)** 
 
 Runtime: GPU (Tesla T4 / V100)
 
@@ -197,6 +199,8 @@ Color Jitter
 
 Random Erase
 
+---
+
 📊 Results
 
 | Model     | Accuracy |
@@ -205,7 +209,8 @@ Random Erase
 | ResNet18  | 80.12    |
 | ResNeXt50 | 83.72    |
 
-.
+---
+---
 
 🖼️ Screenshots
 
@@ -218,7 +223,7 @@ Random Erase
 ### 📌 Screenshot 3 — Training Metrics  
 ![Training Metrics](https://raw.githubusercontent.com/<username>/<repo>/main/screenshot3.png)
 
-
+---
 
 🌱 Future Enhancements
 
@@ -231,7 +236,8 @@ Mobile version (Flutter)
 Lightweight model deployment
 
 Real-time face manipulation detection
-
+---
+---
 
 👩‍💻 Developer
 
@@ -239,7 +245,8 @@ Madhuja Deb Adhikari
 B.Tech — CSE (Cyber Security)
 Rashtriya Raksha University
 GitHub: https://github.com/devoloperMadhuja
-
+---
+---
 
 📜 License
 
