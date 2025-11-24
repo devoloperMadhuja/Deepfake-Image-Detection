@@ -36,7 +36,8 @@ The system includes:
 
 ---
 
-# 📂 **Repository Structure**
+## 📂 Repository Structure
+
 Deepfake-Image-Detection/
 │── dataset/ # Real + Fake images (GAN & Diffusion)
 │── models/ # Trained PyTorch models
