@@ -49,9 +49,6 @@ Deepfake-Image-Detection/
 │ └── app.py
 │── requirements.txt
 │── README.md
-│── report.pdf # Full project report
-│── presentation.pdf # PPT
-
 
 ---
 
